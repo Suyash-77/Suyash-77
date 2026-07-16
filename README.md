@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:7B2FF7,100:2575FC&text=Suyash%20Mangal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
@@ -32,11 +32,11 @@ p align="center">
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=SuyashMangal&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Suyash-77&style=for-the-badge&color=blueviolet)
 
-![](https://img.shields.io/github/followers/SuyashMangal?style=for-the-badge)
+![](https://img.shields.io/github/followers/Suyash-77?style=for-the-badge)
 
-![](https://img.shields.io/github/stars/SuyashMangal?affiliations=OWNER&style=for-the-badge)
+![](https://img.shields.io/github/stars/Suyash-77?affiliations=OWNER&style=for-the-badge)
 
 </p>
 
