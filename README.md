@@ -357,7 +357,7 @@ Passionate about analyzing datasets, building predictive models, and creating me
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuyashMangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashMangal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash-77&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -367,7 +367,7 @@ Passionate about analyzing datasets, building predictive models, and creating me
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashMangal&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyash-77&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -377,7 +377,7 @@ Passionate about analyzing datasets, building predictive models, and creating me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SuyashMangal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Suyash-77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
