@@ -387,7 +387,7 @@ Passionate about analyzing datasets, building predictive models, and creating me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashMangal&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-77&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -458,12 +458,12 @@ open_to:
 
 <p align="center">
 
-<a href="https://github.com/SuyashMangal">
-<img src="https://img.shields.io/badge/GitHub-SuyashMangal-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Suyash-77">
+<img src="https://img.shields.io/badge/GitHub-Suyash-77-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/somya-saini-/">
-<img src="https://img.shields.io/badge/LinkedIn-Suyash%20Mangal-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/suyash-mangal-/">
+<img src="https://img.shields.io/badge/LinkedIn-Suyash-77-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -480,7 +480,7 @@ open_to:
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=SuyashMangal&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Suyash-77&style=for-the-badge&color=blueviolet)
 
 </p>
 
